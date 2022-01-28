@@ -9,6 +9,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
   </component>
@@ -24,11 +25,11 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/web/WEB-INF/llib" />
+          <root url="file://$MODULE_DIR$/web/WEB-INF/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/web/WEB-INF/llib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/web/WEB-INF/lib" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 9.0.45" level="application_server_libraries" />

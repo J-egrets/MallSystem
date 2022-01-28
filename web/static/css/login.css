@@ -1,0 +1,27 @@
+body {
+    background-image: url("../img/bg2.jpg");
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+}
+
+.col-center-block {
+    position: relative;
+    top: 13em;
+}
+
+.img-location {
+    position: relative;
+    left: 13em;
+    bottom: 1em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
